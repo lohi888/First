@@ -9,4 +9,4 @@ class Come{
 	public void Go(int x,String... y){
 		System.out.println(y[y.length-x]);
 }
-}//comment added by karthi
+}//comment added by karthikeyan
