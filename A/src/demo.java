@@ -43,5 +43,5 @@ class MyConsumer implements Consumer<Integer>{
 		System.out.println("Consumer impl Value::"+t);
 	}
 
-
+//hguhjbjmhuhkhlhjli
 }
